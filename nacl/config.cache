@@ -1,0 +1,3 @@
+# Primed config.cache file to allow cross compiling of mono.
+# This file gets copied into the build folder before configure is run.
+mono_cv_uscore=${mono_cv_uscore=no}
